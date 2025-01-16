@@ -27,14 +27,17 @@ Além disso, a cada curso realizado, você encontrará subpastas contendo o cont
 - Avançando em Data Science com Python
 
 
-##Organização do Repositório:
-  ### Engenharia de dados
-  ### Python para datascience
-    - condicionais
-    - estrutura_dados
-    - estrutura_repeticao
-    - introducao
-    - manipula_dados
+## Organização do Repositório:
+
+### Engenharia de dados
+- desafio01
+- 
+### Python para datascience
+- condicionais
+- estrutura_dados
+- estrutura_repeticao
+- introducao
+- manipula_dados
 
 # Como Contribuir
 Se você também está estudando e deseja compartilhar seus progressos ou melhorias, sinta-se à vontade para abrir uma pull request.
