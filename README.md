@@ -7,13 +7,9 @@ O repositório está estruturado da seguinte forma:
 ## Formação: Engenharia de Dados
 
 Dentro dessa pasta, você encontrará diversos subdiretórios com os cursos que compõem a formação de Engenharia de Dados. Estes incluem desde fundamentos básicos até temas mais avançados.
-
-- Python para Data Science: Aborda os conceitos fundamentais de Python aplicados a Data Science.  
-- Planos Criados por Mim: Inclui planos de estudos personalizados que foram criados ao longo da formação.  
-- Formação: Contém o plano geral da formação em Engenharia de Dados.  
-
 Além disso, a cada curso realizado, você encontrará subpastas contendo o conteúdo teórico, exercícios práticos, mini projetos e soluções, conforme abordado nos módulos de cada curso. Os temas dos cursos podem incluir:
 
+- Python para Data Science: Aborda os conceitos fundamentais de Python aplicados a Data Science.
 - MongoDB
 - Machine Learning Avançada
 - Deep Learning com Pytorch
@@ -29,6 +25,16 @@ Além disso, a cada curso realizado, você encontrará subpastas contendo o cont
 - Data Mesh
 - Machine Learning com Python: Classificação
 - Avançando em Data Science com Python
+
+
+##Organização do Repositório:
+  ### Engenharia de dados
+  ### Python para datascience
+    - condicionais
+    - estrutura_dados
+    - estrutura_repeticao
+    - introducao
+    - manipula_dados
 
 # Como Contribuir
 Se você também está estudando e deseja compartilhar seus progressos ou melhorias, sinta-se à vontade para abrir uma pull request.
